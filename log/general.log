@@ -1,0 +1,20 @@
+ INFO 2022-08-02 19:56:06,967 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:32) - JOIN
+ INFO 2022-08-02 19:56:07,238 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:41) - LEFT JOIN
+ INFO 2022-08-02 19:56:07,243 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - RIGHT JOIN
+ INFO 2022-08-02 19:58:19,321 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:32) - JOIN
+ INFO 2022-08-02 19:58:19,537 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:41) - LEFT JOIN
+ INFO 2022-08-02 19:58:19,542 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - RIGHT JOIN
+ INFO 2022-08-02 20:00:09,842 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:32) - JOIN
+ INFO 2022-08-02 20:00:10,068 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:40) - JOIN
+ INFO 2022-08-02 20:00:10,091 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:44) - Hotel: Domundi Av. 6 de Diciembre
+ INFO 2022-08-02 20:00:10,091 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:49) - LEFT JOIN
+ INFO 2022-08-02 20:00:10,096 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:58) - LEFT JOIN
+ INFO 2022-08-02 20:00:10,102 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:62) - Hotel: Domundi Av. 6 de Diciembre
+ INFO 2022-08-02 20:00:10,102 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:67) - RIGHT JOIN
+ INFO 2022-08-02 20:02:10,703 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:32) - JOIN
+ INFO 2022-08-02 20:02:10,905 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:40) - JOIN
+ INFO 2022-08-02 20:02:10,922 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:44) - Hotel: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-02 20:02:10,922 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:49) - LEFT JOIN
+ INFO 2022-08-02 20:02:10,925 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:58) - LEFT JOIN
+ INFO 2022-08-02 20:02:10,927 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:62) - Hotel: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-02 20:02:10,927 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:67) - RIGHT JOIN
