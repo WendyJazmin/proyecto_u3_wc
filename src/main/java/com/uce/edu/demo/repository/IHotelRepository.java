@@ -6,6 +6,10 @@ import com.uce.edu.demo.repository.modelo.Hotel;
 
 public interface IHotelRepository {
 	
+	public void insertarHotel(Hotel hotel);
+	
+	public Hotel buscar(Integer id);
+	
 	public List<Hotel> buscarHotelInnerJoin(String tipoHabitacion);
 	
 	public List<Hotel> buscarHotelInnerJoin();

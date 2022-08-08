@@ -19,6 +19,13 @@ public class HotelRepositoryImpl implements IHotelRepository {
 	private EntityManager entityManager;
 	
 	@Override
+	public Hotel buscar(Integer id) {
+		// TODO Auto-generated method stub
+		return this.entityManager.find(Hotel.class, id);
+	}
+
+	
+	@Override
 	public List<Hotel> buscarHotelInnerJoin(String tipoHabitacion) {
 		// TODO Auto-generated method stub
 		//createQuery("JPQL",Hotel.class);
@@ -83,6 +90,13 @@ public class HotelRepositoryImpl implements IHotelRepository {
 				
 		return myQuery.getResultList();	
 	}
+
+	@Override
+	public void insertarHotel(Hotel hotel) {
+		// TODO Auto-generated method stub
+		this.entityManager.persist(hotel);
+	}
+
 
 	
 

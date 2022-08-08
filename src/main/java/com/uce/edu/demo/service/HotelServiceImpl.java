@@ -14,6 +14,13 @@ public class HotelServiceImpl implements IHotelService {
 	@Autowired
 	private IHotelRepository iHotelRepository;
 	
+
+	@Override
+	public Hotel buscar(Integer id) {
+		// TODO Auto-generated method stub
+		return this.iHotelRepository.buscar(id);
+	}
+	
 	@Override
 	public List<Hotel> buscarHotelInnerJoin(String tipoHabitacion) {
 		// TODO Auto-generated method stub
@@ -55,6 +62,13 @@ public class HotelServiceImpl implements IHotelService {
 		// TODO Auto-generated method stub
 		return this.iHotelRepository.buscarHotelJoinFetch(tipoHabitacion);
 	}
+
+	@Override
+	public void insertarHotel(Hotel hotel) {
+		// TODO Auto-generated method stub
+		this.iHotelRepository.insertarHotel(hotel);
+	}
+
 
 
 
