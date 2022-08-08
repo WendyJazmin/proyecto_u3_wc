@@ -42,25 +42,7 @@ public class ProyectoU3WcApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 	
-		//insertando almacen
-		Almacen al = new Almacen();
-		al.setNombre("Celestial");
-		al.setDireccion("Av. Granados");
-		//this.iAlmacenService.insertar(al);
-		
-		//insertando perfumes
-		Perfume perf1 = new Perfume();
-		perf1.setNombre("La Vida es Bella");
-		perf1.setCodigo("belle11221");
-		perf1.setFechaCaducidad(LocalDateTime.of(2025, 8, 15, 12, 10));
-		perf1.setTipo("dulce");
-		
-		Almacen al1 = new Almacen();
-		al1.setId(2);
-		perf1.setAlmacen(al1);
-		//this.iPerfumeService.insertar(perf1);
-		
-		
+		/*
 		////CONSULTAS////
 		
 		//INNER JOIN
@@ -101,7 +83,49 @@ public class ProyectoU3WcApplication implements CommandLineRunner{
 			logg.info("Almacen: "+a.getNombre()+", direccion: "+a.getDireccion());
 					
 		}
+		*/
 		
+		
+		//RELACIONAMIENTO WHERE
+		logg.info("");
+		logg.info("RELACIONAMIENTO WHERE");
+		List<Almacen> listaAlmacenes5 =this.iAlmacenService.buscarAlmacenJoinWhere("dulce");
+				
+		for(Almacen a:listaAlmacenes5) {
+			logg.info("Almacen: "+a.getNombre()+", direccion: "+a.getDireccion());
+					
+		}
+		
+		//INNER JOIN
+		logg.info("");
+		logg.info("INNER JOIN EAGER/LAZY");
+		List<Almacen> listaAlmacenes =this.iAlmacenService.buscarAlmacenInnerJoin("floral");
+				
+		for(Almacen a:listaAlmacenes) {
+			logg.info("Almacen: "+a.getNombre()+", direccion: "+a.getDireccion());	
+			for(Perfume pe: a.getPerfumes()) {
+				logg.info("Perfumes: "+pe);
+			}
+				
+			logg.info("");
+		
+		}
+		
+		
+		//JOIN FECTH
+		logg.info("");
+		logg.info("JOIN FETCH");
+		List<Almacen> listaAlmacenes6 =this.iAlmacenService.buscarAlmacenJoinFetch("floral");
+				
+		for(Almacen a:listaAlmacenes6) {
+			logg.info("Almacen: "+a.getNombre()+", direccion: "+a.getDireccion());	
+			for(Perfume pe: a.getPerfumes()) {
+				logg.info("Perfumes: "+pe);
+			}
+				
+			logg.info("");
+		
+		}
 		
 		
 	}

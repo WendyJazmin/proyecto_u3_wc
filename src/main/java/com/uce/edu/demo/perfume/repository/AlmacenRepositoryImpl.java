@@ -76,15 +76,21 @@ public class AlmacenRepositoryImpl implements IAlmacenRepository{
 	}
 
 	@Override
-	public List<Almacen> buscarAlmacenJoinWhere(String tipoHabitacion) {
+	public List<Almacen> buscarAlmacenJoinWhere(String tipoPerfume) {
 		// TODO Auto-generated method stub
-		return null;
+		TypedQuery<Almacen> myQuery = this.entityManager.createQuery("SELECT al FROM Almacen al, Perfume pe WHERE al = pe.almacen AND pe.tipo= :tipoPerfume",Almacen.class);
+		myQuery.setParameter("tipoPerfume", tipoPerfume);
+		
+		return myQuery.getResultList();
 	}
 
 	@Override
-	public List<Almacen> buscarAlmacenJoinFetch(String tipoHabitacion) {
+	public List<Almacen> buscarAlmacenJoinFetch(String tipoPerfume) {
 		// TODO Auto-generated method stub
-		return null;
+		TypedQuery<Almacen> myQuery = this.entityManager.createQuery("SELECT a FROM Almacen a JOIN FETCH a.perfumes pe WHERE pe.tipo = :tipoPerfume",Almacen.class);
+		myQuery.setParameter("tipoPerfume", tipoPerfume);
+		
+		return myQuery.getResultList();
 	}
 
 	

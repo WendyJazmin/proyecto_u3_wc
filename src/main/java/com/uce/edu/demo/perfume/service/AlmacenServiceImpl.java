@@ -59,13 +59,13 @@ public class AlmacenServiceImpl implements IAlmacenService{
 	@Override
 	public List<Almacen> buscarAlmacenJoinWhere(String tipoPerfume) {
 		// TODO Auto-generated method stub
-		return null;
+		return this.iAlmacenRepository.buscarAlmacenJoinWhere(tipoPerfume);
 	}
 
 	@Override
 	public List<Almacen> buscarAlmacenJoinFetch(String tipoPerfume) {
 		// TODO Auto-generated method stub
-		return null;
+		return this.iAlmacenRepository.buscarAlmacenJoinFetch(tipoPerfume);
 	}
 
 	

@@ -16,3 +16,172 @@
  INFO 2022-08-08 05:14:47,083 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:96) - 
  INFO 2022-08-08 05:14:47,084 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:97) - RIGHT JOIN
  INFO 2022-08-08 05:14:47,086 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:101) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:02:16,284 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:02:16,287 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:02:16,514 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:02:16,514 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:02:16,514 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:02,388 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:09:02,391 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:09:02,556 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:09:02,556 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:02,556 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:02,556 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:09:02,576 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:121) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:09:02,576 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:121) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:02,576 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:121) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:34,283 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:09:34,286 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:09:34,477 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:09:34,477 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:34,477 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:34,477 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:09:34,477 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:09:34,494 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:09:34,495 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:09:34,495 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:20,416 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:11:20,418 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:11:20,598 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:11:20,598 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:20,599 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:20,599 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:11:20,599 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:11:20,616 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:11:20,616 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]], Perfume [id=2, codigo=pink1133, nombre=Pink, tipo=dulce, fechaCaducidad=2023-12-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]]
+ INFO 2022-08-08 08:11:20,616 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:20,616 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]], Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]]
+ INFO 2022-08-08 08:11:20,616 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:20,617 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]], Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]]
+ INFO 2022-08-08 08:11:53,552 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:11:53,554 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:11:53,774 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:11:53,774 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:53,774 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:53,774 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:11:53,775 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:11:53,792 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]], Perfume [id=2, codigo=pink1133, nombre=Pink, tipo=dulce, fechaCaducidad=2023-12-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]]
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - 
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]], Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]]
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - 
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]], Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]]
+ INFO 2022-08-08 08:11:53,793 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - 
+ INFO 2022-08-08 08:14:39,857 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:14:39,859 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:14:40,049 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:14:40,049 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:14:40,049 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:14:40,049 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:14:40,049 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:14:40,065 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:14:40,065 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]], Perfume [id=2, codigo=pink1133, nombre=Pink, tipo=dulce, fechaCaducidad=2023-12-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]]
+ INFO 2022-08-08 08:14:40,066 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - 
+ INFO 2022-08-08 08:14:40,066 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:14:40,066 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]], Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]]
+ INFO 2022-08-08 08:14:40,067 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - 
+ INFO 2022-08-08 08:14:40,067 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:14:40,067 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: [Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]], Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]]
+ INFO 2022-08-08 08:14:40,067 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - 
+ INFO 2022-08-08 08:15:10,329 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:15:10,330 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:15:10,533 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:15:10,533 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:15:10,533 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:15:10,533 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:15:10,533 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:29:16,606 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:29:16,608 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:29:16,762 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:29:16,762 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:29:16,762 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:29:16,762 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:29:16,762 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:29:16,778 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=2, codigo=pink1133, nombre=Pink, tipo=dulce, fechaCaducidad=2023-12-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:127) - 
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:127) - 
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:29:16,779 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:127) - 
+ INFO 2022-08-08 08:55:08,890 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:55:08,893 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:55:09,074 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:55:09,074 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:55:09,074 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:55:09,074 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:55:09,074 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:55:09,092 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:55:09,092 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=2, codigo=pink1133, nombre=Pink, tipo=dulce, fechaCaducidad=2023-12-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:127) - 
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:127) - 
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=3, codigo=live1132, nombre=Live Irresistible, tipo=dulce, fechaCaducidad=2024-08-01T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=4, codigo=belle11221, nombre=La Vida es Bella, tipo=dulce, fechaCaducidad=2025-08-15T12:10, almacen=Almacen [id=2, nombre=Celestial, direccion=Av. Granados]]
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:127) - 
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:133) - 
+ INFO 2022-08-08 08:55:09,093 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:134) - JOIN FETCH
+ INFO 2022-08-08 08:55:09,099 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:138) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:55:09,100 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:140) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:55:09,100 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:143) - 
+ INFO 2022-08-08 08:57:08,016 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - 
+ INFO 2022-08-08 08:57:08,019 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:108) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 08:57:08,223 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:57:08,223 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:57:08,224 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:112) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 08:57:08,224 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - 
+ INFO 2022-08-08 08:57:08,225 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:118) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 08:57:08,240 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:122) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:57:08,241 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:57:08,241 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:124) - Perfumes: Perfume [id=2, codigo=pink1133, nombre=Pink, tipo=dulce, fechaCaducidad=2023-12-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:57:08,241 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:127) - 
+ INFO 2022-08-08 08:57:08,241 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:133) - 
+ INFO 2022-08-08 08:57:08,241 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:134) - JOIN FETCH
+ INFO 2022-08-08 08:57:08,246 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:138) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 08:57:08,246 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:140) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 08:57:08,246 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:143) - 
+ INFO 2022-08-08 14:08:33,024 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:67) - INNER JOIN
+ INFO 2022-08-08 14:08:33,210 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:71) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:08:33,211 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:71) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:08:33,211 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:71) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:08:33,211 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:75) - 
+ INFO 2022-08-08 14:08:33,211 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:76) - JOIN
+ INFO 2022-08-08 14:08:33,214 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:80) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:08:33,214 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:80) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:08:33,214 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:80) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:08:33,215 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:80) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:08:33,215 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:86) - 
+ INFO 2022-08-08 14:08:33,215 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:87) - LEFT JOIN
+ INFO 2022-08-08 14:08:33,218 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:91) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:08:33,219 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:91) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:08:33,219 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:91) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:08:33,219 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:96) - 
+ INFO 2022-08-08 14:08:33,220 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:97) - RIGHT JOIN
+ INFO 2022-08-08 14:08:33,223 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:101) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:22:13,257 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:90) - 
+ INFO 2022-08-08 14:22:13,263 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:91) - RELACIONAMIENTO WHERE
+ INFO 2022-08-08 14:22:13,450 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:95) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:22:13,450 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:95) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:22:13,450 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:95) - Almacen: Celestial, direccion: Av. Granados
+ INFO 2022-08-08 14:22:13,451 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:100) - 
+ INFO 2022-08-08 14:22:13,451 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:101) - INNER JOIN EAGER/LAZY
+ INFO 2022-08-08 14:22:13,466 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:105) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:22:13,466 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 14:22:13,466 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:107) - Perfumes: Perfume [id=2, codigo=pink1133, nombre=Pink, tipo=dulce, fechaCaducidad=2023-12-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 14:22:13,466 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:110) - 
+ INFO 2022-08-08 14:22:13,467 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:116) - 
+ INFO 2022-08-08 14:22:13,467 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:117) - JOIN FETCH
+ INFO 2022-08-08 14:22:13,472 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:121) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
+ INFO 2022-08-08 14:22:13,472 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
+ INFO 2022-08-08 14:22:13,472 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:126) - 
