@@ -185,3 +185,37 @@
  INFO 2022-08-08 14:22:13,472 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:121) - Almacen: Mistika, direccion: Av 6 de Diciembre e Isla Islabela
  INFO 2022-08-08 14:22:13,472 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:123) - Perfumes: Perfume [id=1, codigo=al1223, nombre=Alien, tipo=floral, fechaCaducidad=2022-10-14T16:10, almacen=Almacen [id=1, nombre=Mistika, direccion=Av 6 de Diciembre e Isla Islabela]]
  INFO 2022-08-08 14:22:13,472 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:126) - 
+ INFO 2022-08-09 18:33:17,626 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:46) - 
+JOIN FETCH
+ INFO 2022-08-09 18:33:17,629 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-09 18:33:17,704 com.uce.edu.demo.repository.HotelRepositoryImpl (HotelRepositoryImpl.java:buscarHotelJoinFetch:96) - Transaccion activa repository: true
+ INFO 2022-08-09 18:33:17,858 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-09 18:33:17,859 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:52) - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+ INFO 2022-08-09 18:33:17,859 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:54) - 
+ INFO 2022-08-09 18:33:17,859 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - Hotel3: Hilton Colon, direccion: Av. Colon
+ INFO 2022-08-09 18:33:17,859 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:52) - Habitacines: Habitacion [id=3, numero=23dc, piso=10, tipo=familiar, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+ INFO 2022-08-09 18:33:17,859 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:54) - 
+ INFO 2022-08-09 18:33:29,191 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:46) - 
+JOIN FETCH
+ INFO 2022-08-09 18:33:29,195 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-09 18:33:29,273 com.uce.edu.demo.repository.HotelRepositoryImpl (HotelRepositoryImpl.java:buscarHotelJoinFetch:96) - Transaccion activa repository: true
+ INFO 2022-08-09 18:33:29,432 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-09 18:33:29,432 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:52) - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+ INFO 2022-08-09 18:33:29,432 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:54) - 
+ INFO 2022-08-09 18:33:29,432 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - Hotel3: Hilton Colon, direccion: Av. Colon
+ INFO 2022-08-09 18:33:29,433 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:52) - Habitacines: Habitacion [id=3, numero=23dc, piso=10, tipo=familiar, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+ INFO 2022-08-09 18:33:29,433 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:54) - 
+ INFO 2022-08-09 18:52:49,546 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:46) - 
+JOIN FETCH
+ INFO 2022-08-09 18:52:49,550 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-09 18:52:49,622 com.uce.edu.demo.repository.HotelRepositoryImpl (HotelRepositoryImpl.java:buscarHotelJoinFetch:96) - Transaccion activa repository: true
+ INFO 2022-08-09 18:52:49,785 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-09 18:52:49,785 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:52) - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+ INFO 2022-08-09 18:52:49,786 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:54) - 
+ INFO 2022-08-09 18:52:49,786 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:50) - Hotel3: Hilton Colon, direccion: Av. Colon
+ INFO 2022-08-09 18:52:49,786 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:52) - Habitacines: Habitacion [id=3, numero=23dc, piso=10, tipo=familiar, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+ INFO 2022-08-09 18:52:49,786 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:54) - 
+ INFO 2022-08-09 19:50:09,094 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
+ INFO 2022-08-09 19:53:11,236 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
+ INFO 2022-08-09 19:55:55,454 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
+ INFO 2022-08-09 20:01:00,324 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
