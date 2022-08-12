@@ -20,9 +20,27 @@ public class HotelServiceImpl implements IHotelService {
 	
 
 	@Override
-	public Hotel buscar(Integer id) {
+	public void insertarHotel(Hotel hotel) {
 		// TODO Auto-generated method stub
-		return this.iHotelRepository.buscar(id);
+		this.iHotelRepository.insertarHotel(hotel);
+	}
+
+	@Override
+	public Hotel buscarHotel(Integer id) {
+		// TODO Auto-generated method stub
+		return this.iHotelRepository.buscarHotel(id);
+	}
+
+	@Override
+	public int actualizarHotel(String nombre, String direccion) {
+		// TODO Auto-generated method stub
+		return this.iHotelRepository.actualizarHotel(nombre, direccion);
+	}
+
+	@Override
+	public int eliminarHotel(String direccion) {
+		// TODO Auto-generated method stub
+		return this.iHotelRepository.eliminarHotel(direccion);
 	}
 	
 	@Override
@@ -69,11 +87,7 @@ public class HotelServiceImpl implements IHotelService {
 		return this.iHotelRepository.buscarHotelJoinFetch(tipoHabitacion);
 	}
 
-	@Override
-	public void insertarHotel(Hotel hotel) {
-		// TODO Auto-generated method stub
-		this.iHotelRepository.insertarHotel(hotel);
-	}
+
 
 
 

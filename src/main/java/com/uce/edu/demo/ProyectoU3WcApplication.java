@@ -50,7 +50,7 @@ public class ProyectoU3WcApplication implements CommandLineRunner{
 		// TODO Auto-generated method stub
 	/*
 		//FETCH
-				logg.info("\nJOIN FETCH");
+				logg.info("JOIN FETCH");
 				List<Hotel> listaHoteles3 = this.iHotelService.buscarHotelJoinFetch("familiar");
 
 				for(Hotel h:listaHoteles3) {
@@ -62,8 +62,8 @@ public class ProyectoU3WcApplication implements CommandLineRunner{
 				}
 		*/
 		//realizar la transferencia
-		//this.iTransferenciaService.realizarTransferencia("123456", "121343", new BigDecimal(1));
-		this.iTransferenciaService.realizarTransferenciaFachada("123456", "121343", new BigDecimal(1));
+		//this.iTransferenciaService.realizarTransferencia("123456", "121343", new BigDecimal(7));
+		//this.iTransferenciaService.realizarTransferenciaFachada("123456", "121343", new BigDecimal(1));
 
 	}
 

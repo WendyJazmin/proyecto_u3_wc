@@ -4,15 +4,19 @@ import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.persistence.Query;
 import javax.persistence.TypedQuery;
+
+import javax.transaction.Transactional;
 import javax.transaction.Transactional.TxType;
+
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Repository;
-import org.springframework.transaction.annotation.Transactional;
+//import org.springframework.transaction.annotation.Transactional;
 import org.springframework.transaction.support.TransactionSynchronizationManager;
 
-import com.uce.edu.demo.ProyectoU3WcApplication;
+
 import com.uce.edu.demo.repository.modelo.Hotel;
 
 @Repository
@@ -25,12 +29,38 @@ public class HotelRepositoryImpl implements IHotelRepository {
 	private EntityManager entityManager;
 	
 	@Override
-	public Hotel buscar(Integer id) {
+	public void insertarHotel(Hotel hotel) {
+		// TODO Auto-generated method stub
+		this.entityManager.persist(hotel);
+	}
+
+	@Override
+	public Hotel buscarHotel(Integer id) {
 		// TODO Auto-generated method stub
 		return this.entityManager.find(Hotel.class, id);
 	}
 
+	@Override
+	public int actualizarHotel(String nombre, String direccion) {
+		// TODO Auto-generated method stub
+		// UPDATE Hotel SET hote_nombre='Hotel Atacames' WHERE hote_direccion='Amanta'
+		Query myQueryv4 = this.entityManager
+				.createQuery("UPDATE Hotel h SET h.nombre=:datoNombre WHERE h.direccion =:datoDireccion");
+		myQueryv4.setParameter("datoNombre", nombre);
+		myQueryv4.setParameter("datoDireccion", direccion);
+		return myQueryv4.executeUpdate();
+	}
+
+	@Override
+	public int eliminarHotel(String direccion) {
+		// TODO Auto-generated method stub
+		// DELETE FROM Hotel WHERE hote_direccion='Shirys'
+		Query myQueryV5 = this.entityManager.createQuery("DELETE FROM Hotel h WHERE h.direccion =: direccion");
+		myQueryV5.setParameter("direccion", direccion);
+		return myQueryV5.executeUpdate();
+	}
 	
+
 	@Override
 	public List<Hotel> buscarHotelInnerJoin(String tipoHabitacion) {
 		// TODO Auto-generated method stub
@@ -89,7 +119,7 @@ public class HotelRepositoryImpl implements IHotelRepository {
 
 	
 	@Override
-	//@Transactional(value = TxType.MANDATORY)
+	//@Transactional(value=TxType.MANDATORY)
 	public List<Hotel> buscarHotelJoinFetch(String tipoHabitacion) {
 		// TODO Auto-generated method stub
 		//createQuery("JPQL",Hotel.class);
@@ -100,13 +130,7 @@ public class HotelRepositoryImpl implements IHotelRepository {
 		return myQuery.getResultList();	
 	}
 
-	@Override
-	public void insertarHotel(Hotel hotel) {
-		// TODO Auto-generated method stub
-		this.entityManager.persist(hotel);
-	}
-
-
+	
 	
 
 	

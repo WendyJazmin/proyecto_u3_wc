@@ -6,9 +6,15 @@ import com.uce.edu.demo.repository.modelo.Hotel;
 
 public interface IHotelService {
 	
-	public void insertarHotel(Hotel hotel);
+	public Hotel buscarHotel(Integer id);//
+	
+	public int actualizarHotel(String nombre, String direccion);//
+	
+	public int eliminarHotel(String direccion);//
 
-	public Hotel buscar(Integer id);
+	public void insertarHotel(Hotel hotel);//
+
+	
 
 	public List<Hotel> buscarHotelInnerJoin(String tipoHabitacion);
 	

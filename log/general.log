@@ -219,3 +219,148 @@ JOIN FETCH
  INFO 2022-08-09 19:53:11,236 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
  INFO 2022-08-09 19:55:55,454 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
  INFO 2022-08-09 20:01:00,324 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
+ INFO 2022-08-11 15:46:05,339 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
+ INFO 2022-08-11 15:58:47,528 com.uce.edu.demo.repository.TransferenciaRepositoryImpl (TransferenciaRepositoryImpl.java:insertar:28) - Transaccion activa repository: true
+ INFO 2022-08-12 04:13:41,544 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:53) - 
+JOIN FETCH
+ INFO 2022-08-12 04:13:41,548 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-12 04:14:03,696 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:53) - 
+JOIN FETCH
+ INFO 2022-08-12 04:14:03,699 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-12 04:14:03,764 com.uce.edu.demo.repository.HotelRepositoryImpl (HotelRepositoryImpl.java:buscarHotelJoinFetch:97) - Transaccion activa repository: true
+ INFO 2022-08-12 04:14:03,923 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:57) - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-12 04:14:03,923 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:59) - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+ INFO 2022-08-12 04:14:03,923 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:61) - 
+ INFO 2022-08-12 04:14:03,923 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:57) - Hotel3: Hilton Colon, direccion: Av. Colon
+ INFO 2022-08-12 04:14:03,923 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:59) - Habitacines: Habitacion [id=3, numero=23dc, piso=10, tipo=familiar, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+ INFO 2022-08-12 04:14:03,923 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:61) - 
+ INFO 2022-08-12 04:14:12,984 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:53) - 
+JOIN FETCH
+ INFO 2022-08-12 04:14:12,986 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-12 04:14:13,062 com.uce.edu.demo.repository.HotelRepositoryImpl (HotelRepositoryImpl.java:buscarHotelJoinFetch:97) - Transaccion activa repository: true
+ INFO 2022-08-12 04:14:13,198 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:57) - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-12 04:14:13,198 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:59) - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+ INFO 2022-08-12 04:14:13,198 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:61) - 
+ INFO 2022-08-12 04:14:13,198 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:57) - Hotel3: Hilton Colon, direccion: Av. Colon
+ INFO 2022-08-12 04:14:13,198 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:59) - Habitacines: Habitacion [id=3, numero=23dc, piso=10, tipo=familiar, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+ INFO 2022-08-12 04:14:13,199 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:61) - 
+ INFO 2022-08-12 04:15:11,486 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:53) - JOIN FETCH
+ INFO 2022-08-12 04:15:11,489 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-12 04:15:11,557 com.uce.edu.demo.repository.HotelRepositoryImpl (HotelRepositoryImpl.java:buscarHotelJoinFetch:97) - Transaccion activa repository: true
+ INFO 2022-08-12 04:15:11,691 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:57) - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+ INFO 2022-08-12 04:15:11,691 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:59) - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+ INFO 2022-08-12 04:15:11,691 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:61) - 
+ INFO 2022-08-12 04:15:11,691 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:57) - Hotel3: Hilton Colon, direccion: Av. Colon
+ INFO 2022-08-12 04:15:11,691 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:59) - Habitacines: Habitacion [id=3, numero=23dc, piso=10, tipo=familiar, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+ INFO 2022-08-12 04:15:11,691 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:61) - 
+ INFO 2022-08-12 04:20:52,486 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:53) - JOIN FETCH
+ INFO 2022-08-12 04:20:52,489 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+ INFO 2022-08-12 04:34:50,761 com.uce.edu.demo.ProyectoU3WcApplication (ProyectoU3WcApplication.java:run:53) - JOIN FETCH
+ INFO 2022-08-12 04:34:50,765 com.uce.edu.demo.service.HotelServiceImpl (HotelServiceImpl.java:buscarHotelJoinFetch:67) - Transaccion activa service: false
+2022-08-12 05:24:22 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:24:22 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:24:23 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:24:23 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:24:58 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:24:58 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:24:59 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:24:59 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:25:35 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:25:35 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:25:35 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:25:35 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:25:36 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:25:36 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:25:37 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:25:37 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:28:31 INFO  HotelTest:44 - Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]
+2022-08-12 05:29:48 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:29:48 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:29:49 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:29:49 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:30:32 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:30:32 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:31:45 INFO  ProyectoU3WcApplication:53 - JOIN FETCH
+2022-08-12 05:31:45 INFO  HotelServiceImpl:67 - Transaccion activa service: false
+2022-08-12 05:31:45 INFO  HotelRepositoryImpl:99 - Transaccion activa repository: true
+2022-08-12 05:31:45 INFO  ProyectoU3WcApplication:57 - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+2022-08-12 05:31:45 INFO  ProyectoU3WcApplication:59 - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+2022-08-12 05:31:45 INFO  ProyectoU3WcApplication:61 - 
+2022-08-12 05:31:45 INFO  ProyectoU3WcApplication:57 - Hotel3: Hilton Colon, direccion: Av. Colon
+2022-08-12 05:31:45 INFO  ProyectoU3WcApplication:59 - Habitacines: Habitacion [id=3, numero=23dc, piso=10, tipo=familiar, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 05:31:45 INFO  ProyectoU3WcApplication:61 - 
+2022-08-12 05:31:46 INFO  HotelTest:44 - Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]
+2022-08-12 05:32:35 INFO  HotelTest:44 - Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]
+2022-08-12 05:49:43 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:44:29 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:46:40 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:47:49 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:47:50 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:49:27 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:49:27 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:49:27 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:50:46 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:50:46 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:51:51 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:51:52 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 10:51:52 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 11:02:03 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-12 11:05:18 INFO  HotelServiceImpl:85 - Transaccion activa service: true
+2022-08-12 11:05:18 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:12:49 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:12:49 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:15:12 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:15:12 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:19:17 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:19:17 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:20:00 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:20:00 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:21:14 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:21:14 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:21:14 INFO  HotelTest:80 - com.uce.edu.demo.repository.HotelRepositoryImpl@27b490de
+2022-08-12 11:22:44 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:22:44 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:23:48 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:23:48 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:24:52 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:24:52 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:26:11 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:26:11 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:27:28 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:27:28 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:42:40 INFO  HotelServiceImpl:85 - Transaccion activa service: false
+2022-08-12 11:42:40 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:48:05 INFO  HotelServiceImpl:85 - Transaccion activa service: true
+2022-08-12 11:48:05 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:48:05 INFO  HotelServiceImpl:85 - Transaccion activa service: true
+2022-08-12 11:48:05 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:48:05 INFO  HotelTest:71 - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+2022-08-12 11:48:05 INFO  HotelTest:73 - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+2022-08-12 11:48:05 INFO  HotelTest:75 - 
+2022-08-12 11:48:05 INFO  HotelTest:71 - Hotel3: Hilton Colon, direccion: Av. Colon
+2022-08-12 11:48:05 INFO  HotelTest:73 - Habitacines: Habitacion [id=10, numero=23rt, piso=22, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:48:05 INFO  HotelTest:73 - Habitacines: Habitacion [id=11, numero=18er, piso=6, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:48:05 INFO  HotelTest:75 - 
+2022-08-12 11:48:34 INFO  HotelServiceImpl:85 - Transaccion activa service: true
+2022-08-12 11:48:34 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:48:34 INFO  HotelServiceImpl:85 - Transaccion activa service: true
+2022-08-12 11:48:34 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:48:34 INFO  HotelTest:71 - Hotel3: Domundi, direccion: Av. 6 de Diciembre
+2022-08-12 11:48:34 INFO  HotelTest:73 - Habitacines: Habitacion [id=2, numero=WE2, piso=3, tipo=familiar, hotel=Hotel [id=1, nombre=Domundi, direccion=Av. 6 de Diciembre]]
+2022-08-12 11:48:34 INFO  HotelTest:75 - 
+2022-08-12 11:48:34 INFO  HotelTest:71 - Hotel3: Hilton Colon, direccion: Av. Colon
+2022-08-12 11:48:34 INFO  HotelTest:73 - Habitacines: Habitacion [id=10, numero=23rt, piso=22, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:48:34 INFO  HotelTest:73 - Habitacines: Habitacion [id=11, numero=18er, piso=6, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:48:34 INFO  HotelTest:75 - 
+2022-08-12 11:49:20 INFO  HotelServiceImpl:85 - Transaccion activa service: true
+2022-08-12 11:49:20 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:49:20 INFO  HotelServiceImpl:85 - Transaccion activa service: true
+2022-08-12 11:49:20 INFO  HotelRepositoryImpl:126 - Transaccion activa repository: true
+2022-08-12 11:49:20 INFO  HotelTest:71 - Hotel3: Hilton Colon, direccion: Av. Colon
+2022-08-12 11:49:20 INFO  HotelTest:73 - Habitacines: Habitacion [id=10, numero=23rt, piso=22, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:49:20 INFO  HotelTest:73 - Habitacines: Habitacion [id=11, numero=18er, piso=6, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:49:20 INFO  HotelTest:75 - 
+2022-08-12 11:49:20 INFO  HotelTest:71 - Hotel3: Hilton Colon, direccion: Av. Colon
+2022-08-12 11:49:20 INFO  HotelTest:73 - Habitacines: Habitacion [id=10, numero=23rt, piso=22, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:49:20 INFO  HotelTest:73 - Habitacines: Habitacion [id=11, numero=18er, piso=6, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
+2022-08-12 11:49:20 INFO  HotelTest:75 - 

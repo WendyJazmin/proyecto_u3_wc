@@ -25,7 +25,7 @@ public class TransferenciaServiceImpl implements ITransferenciaService {
 	
 	@Override
 	@Transactional(value=TxType.REQUIRES_NEW)//si no hay una transaccion, la crea
-	public void realizarTransferencia(String numeroctaOrigen, String numeroctaDestino, BigDecimal monto) {
+	public void realizarTransferencia(String numeroctaOrigen, String numeroctaDestino, BigDecimal monto) {//begin
 		// TODO Auto-generated method stub
 		//1. Restar el monto a la cta origen
 		//2. Sumar el monto a la cta destino
@@ -49,7 +49,8 @@ public class TransferenciaServiceImpl implements ITransferenciaService {
 		trans.setCuentaDestino(ctaDestino);
 		this.iTransferenciaRepository.insertar(trans);
 	
-	}
+	}//commit
+	
 
 	@Override
 	@Transactional(value=TxType.REQUIRED)
