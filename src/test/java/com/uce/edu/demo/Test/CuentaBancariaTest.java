@@ -1,4 +1,4 @@
-package com.uce.edu.demo;
+package com.uce.edu.demo.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -19,6 +19,7 @@ import com.uce.edu.demo.repository.ICuentaBancariaRepository;
 import com.uce.edu.demo.repository.ITransferenciaRepository;
 import com.uce.edu.demo.repository.modelo.CuentaBancaria;
 import com.uce.edu.demo.repository.modelo.Transferencia;
+import com.uce.edu.demo.service.ICuentaBancariaService;
 import com.uce.edu.demo.service.ITransferenciaService;
 
 @SpringBootTest
@@ -33,13 +34,13 @@ public class CuentaBancariaTest {
 	private ITransferenciaService iTransferenciaService;
 
 	@Autowired
-	private ICuentaBancariaRepository iCuentaBancariaRepository;
+	private ICuentaBancariaService iCuentaBancariaService;
 
 	@Test
 	@Rollback(true)
 	public void realizarTransferenciaTest() {
 
-		BigDecimal monto = new BigDecimal(2);
+		BigDecimal monto = new BigDecimal(5);
 
 		this.iTransferenciaService.realizarTransferenciaFachada("123456", "121343", monto);
 
@@ -50,15 +51,15 @@ public class CuentaBancariaTest {
 	@Rollback(true)
 	public void insertarTransferenciaTest() {
 
-		CuentaBancaria ctaOrigen = this.iCuentaBancariaRepository.buscarPorNumero("123456");
-		CuentaBancaria ctaDestino = this.iCuentaBancariaRepository.buscarPorNumero("121343");
+		CuentaBancaria ctaOrigen = this.iCuentaBancariaService.buscarPorNumero("123456");
+		CuentaBancaria ctaDestino = this.iCuentaBancariaService.buscarPorNumero("121343");
 
 		Transferencia tra = new Transferencia();
 		tra.setFecha(LocalDateTime.now());
-		tra.setMonto(new BigDecimal("3"));
+		tra.setMonto(new BigDecimal(3));
 		tra.setCuentaOrigen(ctaOrigen);
 		tra.setCuentaDestino(ctaDestino);
-		this.iTransferenciaRepository.insertar(tra);;
+		this.iTransferenciaRepository.insertar(tra);
 
 		assertNotNull(tra.getMonto());
 
@@ -68,7 +69,7 @@ public class CuentaBancariaTest {
 	@Rollback(true)
 	public void cuentaBancariaBuscarPorNumeroTest() {
 
-		assertThat(this.iCuentaBancariaRepository.buscarPorNumero("123456")).isNotNull();
+		assertThat(this.iCuentaBancariaService.buscarPorNumero("123456")).isNotNull();
 	}
 	
 }

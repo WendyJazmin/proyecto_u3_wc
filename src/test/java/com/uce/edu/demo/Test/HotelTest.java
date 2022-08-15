@@ -1,4 +1,4 @@
-package com.uce.edu.demo;
+package com.uce.edu.demo.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatIllegalStateException;
@@ -28,8 +28,7 @@ import com.uce.edu.demo.service.IHotelService;
 @Transactional
 public class HotelTest {
 
-	@Autowired
-	private IHotelRepository iHotelRepository;
+
 
 	@Autowired
 	private IHotelService iHotelService;
@@ -52,14 +51,14 @@ public class HotelTest {
 	@Rollback(true)
 	public void actualizarHotelTest() {
 
-		assertThat(this.iHotelService.actualizarHotel("Hotel Latacunga", "Quito"));//se modica el nombre del hotel por el nombre de la direccion
+		assertThat(this.iHotelService.actualizarHotel("Hotel Latacunga", "Quito")>0).isTrue();//se modica el nombre del hotel por el nombre de la direccion
 	}
 
 	@Test
 	@Rollback(true)
 	public void eliminarHotelTest() {
 
-		assertThat(this.iHotelService.eliminarHotel("Quito"));
+		assertThat(this.iHotelService.eliminarHotel("Quito")>0).isTrue();
 	}
 
 	@Test
@@ -80,6 +79,6 @@ public class HotelTest {
 	@Test
 	public void buscarHotelOuterJoinRightTest() {
 		assertThat(this.iHotelService.buscarHotelOuterJoinRigth("familiar")).isNotEmpty();
-		//logg.info(iHotelRepository);
+		
 	}
 }

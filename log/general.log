@@ -364,3 +364,6 @@ JOIN FETCH
 2022-08-12 11:49:20 INFO  HotelTest:73 - Habitacines: Habitacion [id=10, numero=23rt, piso=22, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
 2022-08-12 11:49:20 INFO  HotelTest:73 - Habitacines: Habitacion [id=11, numero=18er, piso=6, tipo=matrimonial, hotel=Hotel [id=2, nombre=Hilton Colon, direccion=Av. Colon]]
 2022-08-12 11:49:20 INFO  HotelTest:75 - 
+2022-08-15 14:38:28 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-15 14:45:56 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-15 14:45:56 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
