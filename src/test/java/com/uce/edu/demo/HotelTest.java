@@ -1,4 +1,4 @@
-package com.uce.edu.demo.Test;
+package com.uce.edu.demo;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatIllegalStateException;
@@ -28,8 +28,6 @@ import com.uce.edu.demo.service.IHotelService;
 @Transactional
 public class HotelTest {
 
-
-
 	@Autowired
 	private IHotelService iHotelService;
 	
@@ -43,6 +41,8 @@ public class HotelTest {
 		hotel.setNombre("Hotel Luca");
 
 		this.iHotelService.insertarHotel(hotel);
+		
+		//Hotel h1 = this.iHotelService.buscarHotel();
 
 		assertNotNull(hotel.getDireccion(), hotel.getNombre());
 	}
@@ -51,14 +51,14 @@ public class HotelTest {
 	@Rollback(true)
 	public void actualizarHotelTest() {
 
-		assertThat(this.iHotelService.actualizarHotel("Hotel Latacunga", "Quito")>0).isTrue();//se modica el nombre del hotel por el nombre de la direccion
+		assertThat(this.iHotelService.actualizarHotel("Hotel Latacunga", "Av. 10 de Agosto")>0).isTrue();//se modica el nombre del hotel por el nombre de la direccion
 	}
 
 	@Test
 	@Rollback(true)
 	public void eliminarHotelTest() {
 
-		assertThat(this.iHotelService.eliminarHotel("Quito")>0).isTrue();
+		assertThat(this.iHotelService.eliminarHotel("Av. 10 de Agosto")>0).isTrue();
 	}
 
 	@Test

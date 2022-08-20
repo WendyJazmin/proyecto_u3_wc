@@ -15,6 +15,7 @@ import com.uce.edu.demo.repository.modelo.Hotel;
 public class HotelServiceImpl implements IHotelService {
 
 	private static final Logger logg = Logger.getLogger(HotelServiceImpl.class);
+	
 	@Autowired
 	private IHotelRepository iHotelRepository;
 	

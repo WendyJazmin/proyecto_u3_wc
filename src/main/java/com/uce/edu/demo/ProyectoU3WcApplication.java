@@ -63,8 +63,9 @@ public class ProyectoU3WcApplication implements CommandLineRunner{
 		*/
 		//realizar la transferencia
 		//this.iTransferenciaService.realizarTransferencia("123456", "121343", new BigDecimal(7));
-		//this.iTransferenciaService.realizarTransferenciaFachada("123456", "121343", new BigDecimal(1));
+		this.iTransferenciaService.realizarTransferenciaFachada("121343","123456",  new BigDecimal(1));
 
+		
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.uce.edu.demo.Test;
+package com.uce.edu.demo;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertNotNull;

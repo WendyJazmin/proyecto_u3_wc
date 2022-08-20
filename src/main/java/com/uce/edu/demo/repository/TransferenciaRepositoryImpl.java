@@ -22,11 +22,12 @@ public class TransferenciaRepositoryImpl implements ITransferenciaRepository {
 	private EntityManager entityManager;
 	
 	@Override
-	@Transactional(value =TxType.MANDATORY)
+	@Transactional(value =TxType.REQUIRED)//mandatory y required tienen el mismo comportamiento
 	public void insertar(Transferencia transferencia) {
 		// TODO Auto-generated method stub
 		logg.info("Transaccion activa repository: "+TransactionSynchronizationManager.isActualTransactionActive());
 		this.entityManager.persist(transferencia);
+		throw new RuntimeException();
 	}
 
 }
