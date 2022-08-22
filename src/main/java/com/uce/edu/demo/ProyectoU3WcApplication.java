@@ -10,6 +10,10 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.uce.edu.demo.facturacion.repository.modelo.Cliente;
+import com.uce.edu.demo.facturacion.repository.modelo.DetalleFactura;
+import com.uce.edu.demo.facturacion.repository.modelo.Factura;
+import com.uce.edu.demo.facturacion.service.IClienteService;
 import com.uce.edu.demo.perfume.repository.modelo.Almacen;
 import com.uce.edu.demo.perfume.repository.modelo.Perfume;
 import com.uce.edu.demo.perfume.service.IAlmacenService;
@@ -23,6 +27,9 @@ import com.uce.edu.demo.service.ITransferenciaService;
 
 @SpringBootApplication
 public class ProyectoU3WcApplication implements CommandLineRunner{
+	
+	@Autowired
+	private IClienteService iClienteService;
 	
 	@Autowired
 	private ITransferenciaService iTransferenciaService;
@@ -63,9 +70,28 @@ public class ProyectoU3WcApplication implements CommandLineRunner{
 		*/
 		//realizar la transferencia
 		//this.iTransferenciaService.realizarTransferencia("123456", "121343", new BigDecimal(7));
-		this.iTransferenciaService.realizarTransferenciaFachada("121343","123456",  new BigDecimal(1));
+		//this.iTransferenciaService.realizarTransferenciaFachada("121343","123456",  new BigDecimal(1));
 
+		//INSERTAR
+		Cliente cli = new Cliente();
+		cli.setCedula("12345678");
+		cli.setNumeroTarjeta("q3234f");
 		
+		//this.iClienteService.insertar(cli);
+		
+		Cliente cli2 = this.iClienteService.buscarPorCedula("12345678");
+		logg.info(cli2);
+		
+		
+		//insertar factura
+		Factura fact = new Factura();
+		fact.setFecha(LocalDateTime.now());
+		fact.setNumero("2233555");
+		fact.setCliente(cli2);
+		
+		DetalleFactura detalle = new DetalleFactura();
+		detalle.setSubtotal(new BigDecimal(32));
+		detalle.setCantidad(1);
 	}
 
 }

@@ -388,3 +388,9 @@ JOIN FETCH
 2022-08-19 19:18:46 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
 2022-08-19 19:21:04 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
 2022-08-19 19:32:35 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-21 23:36:00 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-21 23:39:03 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-21 23:51:17 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-22 00:01:18 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-22 06:21:15 INFO  ProyectoU3WcApplication:81 - org.hibernate.LazyInitializationException: failed to lazily initialize a collection of role: com.uce.edu.demo.facturacion.repository.modelo.Cliente.facturas, could not initialize proxy - no Session
+2022-08-22 06:22:09 INFO  ProyectoU3WcApplication:81 - Cliente [id=1, cedula=12345678, numeroTarjeta=q3234f
