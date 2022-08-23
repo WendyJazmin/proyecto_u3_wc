@@ -72,26 +72,7 @@ public class ProyectoU3WcApplication implements CommandLineRunner{
 		//this.iTransferenciaService.realizarTransferencia("123456", "121343", new BigDecimal(7));
 		//this.iTransferenciaService.realizarTransferenciaFachada("121343","123456",  new BigDecimal(1));
 
-		//INSERTAR
-		Cliente cli = new Cliente();
-		cli.setCedula("12345678");
-		cli.setNumeroTarjeta("q3234f");
 		
-		//this.iClienteService.insertar(cli);
-		
-		Cliente cli2 = this.iClienteService.buscarPorCedula("12345678");
-		logg.info(cli2);
-		
-		
-		//insertar factura
-		Factura fact = new Factura();
-		fact.setFecha(LocalDateTime.now());
-		fact.setNumero("2233555");
-		fact.setCliente(cli2);
-		
-		DetalleFactura detalle = new DetalleFactura();
-		detalle.setSubtotal(new BigDecimal(32));
-		detalle.setCantidad(1);
 	}
 
 }
