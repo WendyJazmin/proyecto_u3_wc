@@ -409,3 +409,92 @@ JOIN FETCH
 2022-08-22 20:15:34 INFO  MainInterfacesFuncionales:19 - Supplier Clase: Daniel TE
 2022-08-22 20:15:34 INFO  MainInterfacesFuncionales:23 - Supplier Lambdas: Edison2
 2022-08-22 20:15:34 INFO  MainInterfacesFuncionales:26 - Supplier Lambdas: Daniel TE
+2022-08-23 19:26:02 INFO  MainInterfacesFuncionales:15 - Supplier Clase: Edison
+2022-08-23 19:26:02 INFO  MainInterfacesFuncionales:19 - Supplier Clase: Daniel TE
+2022-08-23 19:26:02 INFO  MainInterfacesFuncionales:23 - Supplier Lambdas: Edison2
+2022-08-23 19:26:02 INFO  MainInterfacesFuncionales:26 - Supplier Lambdas: Daniel TE
+2022-08-23 19:26:02 INFO  MainInterfacesFuncionales:42 - Predicate Lambda: false
+2022-08-23 19:38:24 INFO  MainInterfacesFuncionales:15 - Supplier Clase: Edison
+2022-08-23 19:38:24 INFO  MainInterfacesFuncionales:19 - Supplier Clase: Daniel TE
+2022-08-23 19:38:24 INFO  MainInterfacesFuncionales:23 - Supplier Lambdas: Edison2
+2022-08-23 19:38:24 INFO  MainInterfacesFuncionales:26 - Supplier Lambdas: Daniel TE
+2022-08-23 19:38:24 INFO  MainInterfacesFuncionales:42 - Predicate Lambda: false
+2022-08-23 19:38:24 INFO  MainInterfacesFuncionales:51 - Function Lambda: 5
+2022-08-23 19:38:24 INFO  MainInterfacesFuncionales:58 - Unary Lambda: Danielsufijo
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:44 - Predicate Lambda: false
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:53 - Function Lambda: 5
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:60 - Unary Lambda: Danielsufijo
+2022-08-23 19:57:12 INFO  MainInterfacesFuncionales:67 - HO Supplier: Hola Mundo
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:44 - Predicate Lambda: false
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:53 - Function Lambda: 5
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:60 - Unary Lambda: Danielsufijo
+2022-08-23 19:58:12 INFO  MainInterfacesFuncionales:67 - HO Supplier: Hola Mundose proceso el dato
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:44 - Predicate Lambda: false
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:53 - Function Lambda: 5
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:60 - Unary Lambda: Danielsufijo
+2022-08-23 19:58:25 INFO  MainInterfacesFuncionales:67 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:44 - Predicate Lambda: false
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:53 - Function Lambda: 5
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:60 - Unary Lambda: Danielsufijo
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:66 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-23 20:01:24 INFO  MainInterfacesFuncionales:74 - HO Supplier1: 1132445 se proceso el dato
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:49 - Predicate Lambda: false
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:58 - Function Lambda: 5
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:65 - Unary Lambda: Danielsufijo
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:71 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-23 20:04:55 INFO  MainInterfacesFuncionales:79 - HO Supplier1: 1132445 se proceso el dato
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:49 - Predicate Lambda: false
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:52 - High Order Predicate: false
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:60 - Function Lambda: 5
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:67 - Unary Lambda: Danielsufijo
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:73 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-23 20:07:16 INFO  MainInterfacesFuncionales:81 - HO Supplier1: 1132445 se proceso el dato
+2022-08-23 20:13:55 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 20:13:55 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 20:13:55 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 20:13:55 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 20:13:55 INFO  MainInterfacesFuncionales:49 - Predicate Lambda: false
+2022-08-23 20:13:55 INFO  MainInterfacesFuncionales:53 - High Order Predicate: false
+2022-08-23 20:13:55 INFO  MainInterfacesFuncionales:63 - Function Lambda: 5
+2022-08-23 20:14:30 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 20:14:30 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 20:14:30 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 20:14:30 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 20:14:30 INFO  MainInterfacesFuncionales:49 - Predicate Lambda: false
+2022-08-23 20:14:30 INFO  MainInterfacesFuncionales:53 - High Order Predicate: false
+2022-08-23 20:14:30 INFO  MainInterfacesFuncionales:63 - Function Lambda: 5
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:49 - Predicate Lambda: false
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:53 - High Order Predicate: false
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:63 - Function Lambda: 5
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:70 - HO Function: 1A
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:78 - Unary Lambda: Danielsufijo
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:84 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:92 - HO Supplier1: 1132445 se proceso el dato
