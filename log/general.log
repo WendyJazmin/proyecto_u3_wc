@@ -498,3 +498,437 @@ JOIN FETCH
 2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:78 - Unary Lambda: Danielsufijo
 2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:84 - HO Supplier: Hola Mundo se proceso el dato
 2022-08-23 20:15:33 INFO  MainInterfacesFuncionales:92 - HO Supplier1: 1132445 se proceso el dato
+2022-08-26 12:22:08 INFO  MainInterfacesFuncionales2:18 - Supplier Clase: 1944554894
+2022-08-26 12:28:14 INFO  MainInterfacesFuncionales2:20 - Supplier Clase: -1749014255
+2022-08-26 12:28:14 INFO  MainInterfacesFuncionales2:24 - Supplier Lambda: 0.07286748423519873
+2022-08-26 12:28:19 INFO  MainInterfacesFuncionales2:20 - Supplier Clase: -631939643
+2022-08-26 12:28:19 INFO  MainInterfacesFuncionales2:24 - Supplier Lambda: 0.06267162447216779
+2022-08-26 12:28:21 INFO  MainInterfacesFuncionales2:20 - Supplier Clase: 751022786
+2022-08-26 12:28:21 INFO  MainInterfacesFuncionales2:24 - Supplier Lambda: 0.18186046913991993
+2022-08-26 12:28:24 INFO  MainInterfacesFuncionales2:20 - Supplier Clase: 1530026938
+2022-08-26 12:28:24 INFO  MainInterfacesFuncionales2:24 - Supplier Lambda: 0.2522627992668882
+2022-08-26 12:40:32 INFO  MainInterfacesFuncionales2:23 - Supplier Clase: 472775668
+2022-08-26 12:40:32 INFO  MainInterfacesFuncionales2:27 - Supplier Lambda: 0.8681426751342298
+2022-08-26 12:40:32 INFO  MainInterfacesFuncionales2:31 - Supplier High Order:  Suma de 2 numeros - -2088222392
+2022-08-26 12:40:36 INFO  MainInterfacesFuncionales2:23 - Supplier Clase: -1900305270
+2022-08-26 12:40:36 INFO  MainInterfacesFuncionales2:27 - Supplier Lambda: 0.6517865674015546
+2022-08-26 12:40:36 INFO  MainInterfacesFuncionales2:31 - Supplier High Order:  Suma de 2 numeros - 1848993913
+2022-08-26 12:52:14 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1166339205
+2022-08-26 12:52:14 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.09626656492368524
+2022-08-26 12:52:14 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1872833787
+2022-08-26 12:52:50 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -1340514473
+2022-08-26 12:52:50 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.2756324553465318
+2022-08-26 12:52:50 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 985725739
+2022-08-26 12:52:50 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 12:56:34 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 557599203
+2022-08-26 12:56:34 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.2612179262005916
+2022-08-26 12:56:34 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 2138355758
+2022-08-26 12:56:34 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:49 - Predicate Lambda: false
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:53 - High Order Predicate: false
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:63 - Function Lambda: 5
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:70 - HO Function: 1A
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:78 - Unary Lambda: Danielsufijo
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:84 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-26 12:57:37 INFO  MainInterfacesFuncionales:92 - HO Supplier1: 1132445 se proceso el dato
+2022-08-26 12:58:48 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 671239130
+2022-08-26 12:58:48 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.47826901799249
+2022-08-26 12:58:48 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 950355792
+2022-08-26 12:58:48 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 12:59:27 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1220092931
+2022-08-26 12:59:27 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.9543139841597967
+2022-08-26 12:59:27 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 398843476
+2022-08-26 12:59:27 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:07:22 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -1429455183
+2022-08-26 13:07:22 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.05338205924082884
+2022-08-26 13:07:22 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -1163729801
+2022-08-26 13:07:22 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:17 - Supplier Clase: Edison
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:21 - Supplier Clase: Daniel TE
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:25 - Supplier Lambdas: Edison2
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:28 - Supplier Lambdas: Daniel TE
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:49 - Predicate Lambda: false
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:53 - High Order Predicate: false
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:63 - Function Lambda: 5
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:70 - HO Function: 1A
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:78 - Unary Lambda: Danielsufijo
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:84 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-26 13:09:02 INFO  MainInterfacesFuncionales:92 - HO Supplier1: 1132445 se proceso el dato
+2022-08-26 13:11:25 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -169759925
+2022-08-26 13:11:25 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.4445084302096719
+2022-08-26 13:11:25 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1852653141
+2022-08-26 13:11:25 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:11:53 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -112237939
+2022-08-26 13:11:53 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.9272217230368831
+2022-08-26 13:11:53 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1301441306
+2022-08-26 13:11:53 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:20 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -1769764954
+2022-08-26 13:28:20 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.6938447724297686
+2022-08-26 13:28:20 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -1619453494
+2022-08-26 13:28:20 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:20 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:28:20 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:28:25 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -920865758
+2022-08-26 13:28:25 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.21285765777164467
+2022-08-26 13:28:25 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1289850850
+2022-08-26 13:28:25 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:25 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:28:25 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:28:27 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1911661588
+2022-08-26 13:28:27 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.23995585344874126
+2022-08-26 13:28:27 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -1589608081
+2022-08-26 13:28:27 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:27 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:28:27 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:28:28 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 2105656681
+2022-08-26 13:28:28 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.6714201659519211
+2022-08-26 13:28:28 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 483982567
+2022-08-26 13:28:28 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:28 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:28:28 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:28:30 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1110657544
+2022-08-26 13:28:30 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.12504836617539095
+2022-08-26 13:28:30 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -784396890
+2022-08-26 13:28:30 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:30 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:28:30 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:28:32 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1864169761
+2022-08-26 13:28:32 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.5930254227690401
+2022-08-26 13:28:32 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -391533213
+2022-08-26 13:28:32 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:32 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:28:32 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:28:47 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1968635772
+2022-08-26 13:28:47 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.16789841776745318
+2022-08-26 13:28:47 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1047528176
+2022-08-26 13:28:47 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:28:47 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:28:47 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: false
+2022-08-26 13:29:24 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -286307337
+2022-08-26 13:29:24 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.863783217652512
+2022-08-26 13:29:24 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1639536947
+2022-08-26 13:29:24 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:29:24 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:29:24 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: false
+2022-08-26 13:29:34 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1842280211
+2022-08-26 13:29:34 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.5349822023965218
+2022-08-26 13:29:34 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -477202285
+2022-08-26 13:29:34 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:29:34 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:29:34 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: false
+2022-08-26 13:30:28 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -1837788438
+2022-08-26 13:30:28 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.4132165580569862
+2022-08-26 13:30:28 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -218715944
+2022-08-26 13:30:28 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:30:28 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:30:28 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:30:30 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 909287530
+2022-08-26 13:30:30 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.5265898239743546
+2022-08-26 13:30:30 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1687721844
+2022-08-26 13:30:30 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:30:30 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:30:30 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:30:32 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 469135955
+2022-08-26 13:30:32 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.2809754471270739
+2022-08-26 13:30:32 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1426375781
+2022-08-26 13:30:32 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:30:32 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:30:32 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:45:38 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -1236022291
+2022-08-26 13:45:38 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.5380782298857744
+2022-08-26 13:45:38 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -779595528
+2022-08-26 13:45:38 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:45:38 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:45:38 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:45:38 INFO  MainInterfacesFuncionales2:70 - Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 13:45:56 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -345889945
+2022-08-26 13:45:56 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.06024514272648096
+2022-08-26 13:45:56 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -629785156
+2022-08-26 13:45:56 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:45:56 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:45:56 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:45:56 INFO  MainInterfacesFuncionales2:70 - Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -443859022
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.3971214867170997
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -1963880354
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:70 - Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 13:51:18 INFO  MainInterfacesFuncionales2:74 - Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -2080703869
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.19240074289445075
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -1070109918
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:70 - Lambda ->Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 13:52:06 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -724004768
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.43474651798001707
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 1857683442
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:01:28 INFO  MainInterfacesFuncionales2:82 - Danielcontiene 6 letras
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -490092237
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.09573201519926744
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -287794624
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:01:42 INFO  MainInterfacesFuncionales2:82 - Daniel contiene 6 letras
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -1730082387
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.41172799514051284
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -192487348
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:02:13 INFO  MainInterfacesFuncionales2:82 - function clase: Daniel contiene 6 letras
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -125072037
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.094776836385006
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -469008996
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:82 - function clase: Daniel contiene 6 letras
+2022-08-26 14:11:51 INFO  MainInterfacesFuncionales2:90 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1678573408
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.9764367096371047
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - 2058197002
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:82 - function clase: Daniel contiene 6 letras
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:90 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:17:38 INFO  MainInterfacesFuncionales2:97 - Function High Order: el nombre contiene5 letras
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -984700241
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.15911169273432624
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -871645412
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:82 - function clase: Daniel contiene 6 letras
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:90 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:97 - Function High Order: el nombre contiene5 letras
+2022-08-26 14:30:29 INFO  MainInterfacesFuncionales2:106 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -383397137
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.04107588044823407
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -1817236474
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:82 - function clase: Daniel contiene 6 letras
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:90 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:97 - Function High Order: el nombre contiene5 letras
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:103 - 
+	UNARY OPERATOR
+2022-08-26 14:31:17 INFO  MainInterfacesFuncionales2:107 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1739256479
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.6059612698854113
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -140532535
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:82 - function clase: Daniel contiene 6 letras
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:90 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:97 - Function High Order: el nombre contiene5 letras
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:103 - 
+	UNARY OPERATOR
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:107 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:34:11 INFO  MainInterfacesFuncionales2:111 - Unary Operator lambda: area del cuadrardo es 63.2
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1760202651
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.6955038293316296
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -401151323
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:37 - 
+Consumer
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:53 - 
+Predicate
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:78 - 
+FUNCTION
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:82 - function clase: Daniel contiene 6 letras
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:90 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:97 - Function High Order: el nombre contiene5 letras
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:103 - 
+	UNARY OPERATOR
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:107 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:111 - Unary Operator lambda: area del cuadrardo es 63.2
+2022-08-26 14:38:04 INFO  MainInterfacesFuncionales2:116 - Unary Operator High Order : area del cuadrardo es 63.2
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:21 - 	CONSUMER
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: -934421387
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.980840995675158
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -653058401
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:37 - 
+	CONSUMER
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:53 - 
+	PREDICATE
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:79 - 
+	FUNCTION
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:83 - function clase: Daniel contiene 6 letras
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:91 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:98 - Function High Order: el nombre contiene5 letras
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:104 - 
+	UNARY OPERATOR
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:108 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:112 - Unary Operator lambda: area del cuadrardo es 63.2
+2022-08-26 14:41:03 INFO  MainInterfacesFuncionales2:117 - Unary Operator High Order : area del cuadrardo es 63.2
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:21 - 	CONSUMER
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 956238029
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.18865028480150514
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -687424172
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:37 - 
+	CONSUMER
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:53 - 
+	PREDICATE
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:79 - 
+	FUNCTION
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:83 - function clase: Daniel contiene 6 letras
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:91 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:98 - Function High Order: el nombre contiene 5 letras
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:104 - 
+	UNARY OPERATOR
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:108 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:112 - Unary Operator lambda: area del cuadrardo es 63.2
+2022-08-26 14:41:27 INFO  MainInterfacesFuncionales2:117 - Unary Operator High Order : area del cuadrardo es 63.2
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:21 - CONSUMER
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:24 - Supplier Clase: 1481727960
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:28 - Supplier Lambda: 0.6937025591268217
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:32 - Supplier High Order:  Suma de 2 numeros - -2132896988
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:37 - 
+	CONSUMER
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:53 - 
+	PREDICATE
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:56 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:70 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:74 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:79 - 
+	FUNCTION
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:83 - function clase: Daniel contiene 6 letras
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:91 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:98 - Function High Order: el nombre contiene 5 letras
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:104 - 
+	UNARY OPERATOR
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:108 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:112 - Unary Operator lambda: area del cuadrardo es 63.2
+2022-08-26 14:41:54 INFO  MainInterfacesFuncionales2:117 - Unary Operator High Order : area del cuadrardo es 63.2
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:21 - SUPPLIER
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:25 - Supplier Clase: 1182275002
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:29 - Supplier Lambda: 0.06895397631889355
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:33 - Supplier High Order:  Suma de 2 numeros - 495802923
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:38 - 
+	CONSUMER
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:54 - 
+	PREDICATE
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:57 - El resultado de la multiplicación fue mayor a cero: true
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:71 - Lambda -> Multiplicar el tamaño de un String fue mayor a 16? false
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:75 - High Order -> Multiplicar el tamaño de un String fue mayor a 16? true
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:80 - 
+	FUNCTION
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:84 - function clase: Daniel contiene 6 letras
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:92 - function lambda: Daniel contiene 6 letras
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:99 - Function High Order: el nombre contiene 5 letras
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:105 - 
+	UNARY OPERATOR
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:109 - Unary Operator Clase: area del cuadrardo es 63.2
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:113 - Unary Operator lambda: area del cuadrardo es 63.2
+2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:118 - Unary Operator High Order : area del cuadrardo es 63.2
