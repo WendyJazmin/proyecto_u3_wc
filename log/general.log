@@ -932,3 +932,63 @@ FUNCTION
 2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:109 - Unary Operator Clase: area del cuadrardo es 63.2
 2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:113 - Unary Operator lambda: area del cuadrardo es 63.2
 2022-08-26 14:43:00 INFO  MainInterfacesFuncionales2:118 - Unary Operator High Order : area del cuadrardo es 63.2
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:22 - Supplier Clase: Edison
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:26 - Supplier Clase: Daniel TE
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:29 - Java Supplier
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:35 - Supplier Lambdas: Edison2
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:38 - Supplier Lambdas: Daniel TE
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:56 - Java Consumer
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:64 - Predicate Lambda: false
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:68 - High Order Predicate: false
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:78 - Function Lambda: 5
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:85 - HO Function: 1A
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:93 - Unary Lambda: Danielsufijo
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:99 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-29 18:41:04 INFO  MainInterfacesFuncionales:107 - HO Supplier1: 1132445 se proceso el dato
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:22 - Supplier Clase: Edison
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:26 - Supplier Clase: Daniel TE
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:29 - Java Supplier
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:35 - Supplier Lambdas: Edison2
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:38 - Supplier Lambdas: Daniel TE
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:56 - Java Consumer
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:64 - Predicate Lambda: false
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:68 - High Order Predicate: false
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:78 - Function Lambda: 5
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:85 - HO Function: 1A
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:93 - Unary Lambda: Danielsufijo
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:99 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-29 18:41:20 INFO  MainInterfacesFuncionales:107 - HO Supplier1: 1132445 se proceso el dato
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:23 - Supplier Clase: Edison
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:27 - Supplier Clase: Daniel TE
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:30 - Java Supplier
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:36 - Supplier Lambdas: Edison2
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:39 - Supplier Lambdas: Daniel TE
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:57 - Java Consumer
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:65 - Predicate Lambda: false
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:69 - High Order Predicate: false
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:72 - Java Predicate
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:83 - Function Lambda: 5
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:90 - HO Function: 1A
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:98 - Unary Lambda: Danielsufijo
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:104 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-29 18:51:09 INFO  MainInterfacesFuncionales:112 - HO Supplier1: 1132445 se proceso el dato
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:34 - Supplier Clase: Edison
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:38 - Supplier Clase: Daniel TE
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:41 - Java Supplier
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:47 - Supplier Lambdas: Edison2
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:50 - Supplier Lambdas: Daniel TE
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:68 - Java Consumer
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:76 - Predicate Lambda: false
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:80 - High Order Predicate: false
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:83 - Java Predicate
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:94 - Function Lambda: 5
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:101 - HO Function: 1A
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:104 - JAVA FUNCTION
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:21 - Impresion: num: 2
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:21 - Impresion: num: 3
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:21 - Impresion: num: 4
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:21 - Impresion: num: 5
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:21 - Impresion: num: 6
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:118 - Unary Lambda: Danielsufijo
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:124 - HO Supplier: Hola Mundo se proceso el dato
+2022-08-29 19:13:20 INFO  MainInterfacesFuncionales:132 - HO Supplier1: 1132445 se proceso el dato
