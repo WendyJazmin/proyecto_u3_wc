@@ -4,7 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 import com.uce.edu.demo.hilos.tradicional.Cajero;
 
-public class PCCajeroParalelo extends Thread{//cuando se extiende de run siempre se debe sobreescribir el metodo run
+public class PCCajeroParalelo extends Thread{//cuando se extiende de thread siempre se debe sobreescribir el metodo run
 
 	private CajeroParalelo cajero;
 	public PCCajeroParalelo(CajeroParalelo cajero) {
