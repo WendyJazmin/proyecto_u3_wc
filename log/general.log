@@ -1012,3 +1012,30 @@ FUNCTION
 2022-08-29 20:21:12 INFO  MainInterfacesFuncionales:125 - Unary Lambda: Danielsufijo
 2022-08-29 20:21:12 INFO  MainInterfacesFuncionales:131 - HO Supplier: Hola Mundo se proceso el dato
 2022-08-29 20:21:12 INFO  MainInterfacesFuncionales:139 - HO Supplier1: 1132445 se proceso el dato
+2022-09-02 15:20:47 INFO  MainStream:19 - High Order (Supplier)
+2022-09-02 15:20:47 INFO  MainStream:24 - 
+High Order (Consumer)
+2022-09-02 15:20:47 INFO  MainStream:30 - 
+High Order (Predicate)
+2022-09-02 15:20:47 INFO  MainStream:34 - High Order (Function)
+2022-09-02 15:21:54 INFO  MainStream:19 - High Order (Supplier)
+2022-09-02 15:21:54 INFO  MainStream:24 - 
+High Order (Consumer)
+2022-09-02 15:21:54 INFO  MainStream:30 - 
+High Order (Predicate)
+2022-09-02 15:21:54 INFO  MainStream:34 - 
+High Order (Function)
+2022-09-02 15:23:54 INFO  MainStream:19 - High Order (Supplier)
+2022-09-02 15:23:54 INFO  MainStream:24 - 
+High Order (Consumer)
+2022-09-02 15:23:54 INFO  MainStream:30 - 
+High Order (Predicate)
+2022-09-02 15:23:54 INFO  MainStream:34 - 
+High Order (Function)
+2022-09-02 15:25:53 INFO  MainStream:19 - High Order (Supplier)
+2022-09-02 15:25:53 INFO  MainStream:23 - 
+High Order (Consumer)
+2022-09-02 15:25:53 INFO  MainStream:29 - 
+High Order (Predicate)
+2022-09-02 15:25:53 INFO  MainStream:33 - 
+High Order (Function)
